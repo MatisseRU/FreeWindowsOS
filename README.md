@@ -20,3 +20,5 @@ https://github.com/reactos/reactos
 
 ## Basic concepts.
 I will detail how this new OS should be designed, this is still a vague idea though.
+
+This name sucks too btw :v
