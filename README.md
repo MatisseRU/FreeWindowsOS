@@ -6,7 +6,7 @@ Why recreating another operating system instead of creating a compatibility laye
 
 > Conflicts.
 
-Windows has its own architecture, I.E. :  Paths (C:\ ; usage of "\" instead of "/") , APIs (Win32API) , Registry System , Drivers....
+Windows has its own architecture, I.E. :  Paths (C:\ ; usage of "\\" instead of "/") , APIs (Win32API) , Registry System , Drivers....
 
 That said, when you try to integrate a windows-based application, many conflicts appear and it becomes more and more difficult to keep track of every interactions between the compatibility layer and the host system.
 
